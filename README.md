@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ChipsDahCat
-- 👀 I’m interested in Dinosaurs!
-- 🌱 I’m currently learning how to create a video game!
-- 💞️ I’m looking to collaborate on ABSOLUTELY NOTHING
-- 📫 How to reach me : Dont
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I am a furry!
+Hello Everybody! I am a video game developer who is obsessed with dinosaurs. I am a furry. I love cheese, and music!
 
 <!---
 ChipsDahCat/ChipsDahCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
